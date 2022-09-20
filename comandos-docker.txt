@@ -1,9 +1,0 @@
-# Principais comandos
-
-## Como iniciar um container?
-
-```
-    docker run NOME-DA IMAGEM
-
-    docker run docker/getting-started
-```
